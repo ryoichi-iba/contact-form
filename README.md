@@ -1,4 +1,4 @@
 # contact-form
-https://qiita.com/s79ns/items/62ce69fef20258f35534
+https://gray-code.com/php/make-the-form-vol1/
 
 こちらを参考にPHPでお問い合わせフォームを作成しました。
